@@ -1,4 +1,0 @@
-name = input("Enter your name: ")
-usn = input("Enter your USN: ")
-print("Name:", name)
-print("USN:", usn)
